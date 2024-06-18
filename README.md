@@ -16,6 +16,19 @@
 
 ## 🛠️ Tech Stack
 
+
+<div>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/React%20Native%20Paper-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Paper" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Auth" />
+  <img src="https://img.shields.io/badge/Firebase%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Firestore" />
+  <img src="https://img.shields.io/badge/Firebase%20Pagination-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Pagination" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+</div>
+
+<hr/>
+
 - **React Native**: For building the cross-platform mobile application.
 - **React Native Paper**: For implementing a consistent and polished design.
 - **Firebase**: 
